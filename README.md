@@ -34,7 +34,7 @@ ChainX Marketing Center is composed of PolkaX team and global community represen
 
 | Name             | Title             | From   | Email                      | CID         |
 | :--------------- | :---------------- | :----- | :------------------------- | :---------- |
-| Guanghua Guo     | CEO               | PolkaX | guanghuaguo.oss@gmail.com  | 32113643644 |
+| Guanghua Guo     | CEO               | PolkaX | guanghuaguo.oss@gmail.com  | 0 |
 | David Zhang      | CBO               | PolkaX | zhl@chainnet.tech          | 23461944232 |
 | Kristen Shen     | COO               | PolkaX | kristen@chainnet.tech      | 1649510     |
 | Kyle Du          | Product Manager   | PolkaX | duyh@chainnet.tech         | 6283719     |
